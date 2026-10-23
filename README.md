@@ -1,5 +1,5 @@
 # Docusign-Sales-Workflow
-Sales workflow along with Docusign API key to facilitate data export
+Sales workflow - Docusign API key for facilitating data export
 
 # OpsLevel Components
 
